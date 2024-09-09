@@ -8,24 +8,7 @@ This project sets up Apache Airflow and Apache Spark in a single Docker containe
 
 - Docker
 - Docker Compose
-
-## Setup
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/hotspoon/project_3
-   cd project_3
-   ```
-
-2. Build and start the Docker container:
-
-   ```sh
-   docker-compose up --build
-   ```
-
-3. Access the Airflow web interface at `http://localhost:8080`.
-
+- 
 ## Directory Structure
 
 - `dags/`: Contains example DAGs.
